@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MondrianLayout",
+        "repositoryURL": "https://github.com/muukii/MondrianLayout.git",
+        "state": {
+          "branch": null,
+          "revision": "bdcb0a24ac6f6c93dca89e20f4d94cb248861c57",
+          "version": "0.0.16"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
